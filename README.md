@@ -168,3 +168,9 @@ python crawler.py --out ./capture --sleep 2.6
 - 采集他人内容时注意个人信息保护相关法规。
 
 作者不对使用者的任何滥用行为负责。
+
+---
+
+## License
+
+[MIT](LICENSE)
