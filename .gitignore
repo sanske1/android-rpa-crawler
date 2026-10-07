@@ -1,0 +1,22 @@
+# 采集产物：绝对不要提交（含他人内容与个人信息）
+capture/
+capture_*/
+*.csv
+*.png
+*.xml
+logcat_full.txt
+_ui.xml
+
+# 断点与运行状态
+progress.json
+product.json
+
+# Python
+__pycache__/
+*.pyc
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
